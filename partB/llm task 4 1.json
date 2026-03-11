@@ -1,0 +1,46 @@
+{
+  "student_metadata": {
+    "name": "Harsh Gupta",
+    "roll_number": "230093",
+    "course": "Advanced Machine Learning",
+    "exam": "Mid-Semester Examination",
+    "part": "Part B",
+    "submission_date": "2026-03-12"
+  },
+  "llm_tools_used": [
+    {
+      "tool_name": "Antigravity",
+      "model": "Gemini 2.0",
+      "provider": "Google"
+    }
+  ],
+  "full_llm_interaction_log": [
+    {
+      "interaction_id": 1,
+      "date": "2026-03-12",
+      "task_tag": "Task 4 1",
+      "purpose": "Assistance with task 4 1",
+      "prompt": "How to structure the response for task 4 1 based on the LIBLINEAR paper?",
+      "llm_response_used": "Yes",
+      "how_it_helped": "Provided a clear structure and identified key sections of the paper to reference.",
+      "student_verification": "Verified by reading the referenced sections in the JMLR 2008 paper.",
+      "code_used_verbatim": false,
+      "student_modification": "Modified to match the specific toy dataset chosen for Question 2.",
+      "confidence_level": 5
+    }
+  ],
+  "top_5_prompts": [
+    {
+      "rank": 1,
+      "interaction_id": 1,
+      "prompt": "How to structure the response for task 4 1 based on the LIBLINEAR paper?",
+      "why_important": "Ensured alignment with paper-specific details rather than generic ML knowledge."
+    }
+  ],
+  "student_declaration": {
+    "statement": "I declare that this JSON file contains a complete and honest record of my LLM usage for Part B.",
+    "understanding_acknowledged": true,
+    "signature": "Harsh Gupta",
+    "date": "2026-03-12"
+  }
+}
